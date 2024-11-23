@@ -1,7 +1,7 @@
 [
     {
-        "Author": "Anna",
-        "Name": "Peeping Tom",
+        "Author": "Anna, AS",
+        "Name": "Peeping Tom 7.1",
         "InternalName": "PeepingTom",
         "AssemblyVersion": "1.7.17",
         "Description": "Shows who is currently or was previously targeting you.",
