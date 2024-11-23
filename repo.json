@@ -1,25 +1,25 @@
 [
   {
-    "Author": "Anna, AS",
-    "Name": "Peeping Tom 7.1",
-    "InternalName": "PeepingTom",
-    "AssemblyVersion": "1.8.0.0",
-    "Description": "Shows who is currently or was previously targeting you.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Aspher0/peeping-tom-7.1-temp",
-    "Tags": [
-      "target"
-    ],
-    "DalamudApiLevel": 11,
-    "LoadPriority": 0,
-    "Punchline": "Shows who is currently or was previously targeting you.",
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "DownloadCount": 0,
-    "LastUpdated": 0,
-    "Changelog": "",
-    "DownloadLinkInstall": "https://github.com/Aspher0/peeping-tom-7.1-temp/releases/download/7.1/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Aspher0/peeping-tom-7.1-temp/releases/download/7.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Aspher0/peeping-tom-7.1-temp/releases/download/7.1/latest.zip"
-  }
+        "Author": "Anna AS",
+        "Name": "Peeping Tom 11",
+        "InternalName": "Peeping_Tom_11",
+        "AssemblyVersion": "1.7.18",
+        "Description": "Shows who is currently or was previously targeting you.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://git.anna.lgbt/anna/PeepingTom",
+        "Tags": [
+            "target"
+        ],
+        "DalamudApiLevel": 11,
+        "LoadPriority": 0,
+        "Punchline": "Shows who is currently or was previously targeting you.",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 0,
+        "LastUpdated": 0,
+        "Changelog": "",
+        "DownloadLinkInstall": "https://github.com/Aspher0/peeping-tom-7.1-temp/releases/download/7.1/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Aspher0/peeping-tom-7.1-temp/releases/download/7.1/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Aspher0/peeping-tom-7.1-temp/releases/download/7.1/latest.zip"
+    }
 ]
